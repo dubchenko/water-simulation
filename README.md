@@ -1,2 +1,1 @@
-# NumSimOpenGL
-test
+# OpenGL Water Simulation
